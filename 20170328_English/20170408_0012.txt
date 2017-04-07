@@ -1,0 +1,13 @@
+--
+[0012] Back-to-Basics Weekend Reading: Deep learning in neural networks/Werner Vogels/20170324
+#0012/889/152
+
+In the past few years, we have seen an explosion in the use of 'Deep Learning' as its software platforms and the supporting hardware mature, especially as GPUs with larger memories become widely available. Even though this is a recent development, 'Deep Learning' has entrenched historical roots, tracing back all the way to the sixties or possibly earlier.
+
+By reading-up on its history, we get a better understanding of the current state of the art of 'Deep Learning algorithms' and the 'Neural Networks' that you build with them.
+
+There is a broad set of papers to read if we want to dive deep into the history. It would take us multiple weekends. Instead, we will be reading an excellent overview paper from 2014 by Jurgen Schmidhuber. Jurgen evaluates the current state of the art in 'Deep Learning' by tracing it back to its roots. Ergo, we get excellent historical context.
+
+Enjoy!
+
+http://www.allthingsdistributed.com/2017/03/deep-learning-neural-networks.html
