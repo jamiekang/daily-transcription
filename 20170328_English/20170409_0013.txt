@@ -1,0 +1,13 @@
+--
+[0013] Back-to-Basics Weekend Reading: Twenty years of functional MRI: The science and the stories/Werner Vogels/20170407
+#0013/1268/219
+
+I will be returning this weekend to the US from a very successful AWS Summit in Sydney, so I have ample time to read during travels. This weekend however I would like to take break from reading historical computer science material, to catch up on another technology I find fascinating, that of functional Magnetic Resonance Imaging, aka fMRI.
+
+fMRI is a functional imaging technology, meaning that it just records the state of the brain at one particular point in time, but the changing state over a period of time. The basic technology records brain activity by measuring changes in blood flow through the brain. The technology relies on the fact that cerebral blood flow and neuronal activation are coupled. When an area of the brain is in use, blood flow to that region also increases.
+
+There have been significant advances in the use of fMRI technology, but mostly in research. It also comes with significant ethical questions: if you can "read" someone's brain, what are you allowed to do with that knowledge?
+
+For my flight back to the US this weekend I will read two papers: one by Peter Bandettini published in Neuroimage about the history of fMRI and one back from Poldrack and Farah on the state of the art in fMRI and its applications, published in Nature.
+
+http://www.allthingsdistributed.com/2017/04/functional-MRI-science-stories.html
