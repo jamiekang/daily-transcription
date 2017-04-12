@@ -1,0 +1,19 @@
+--
+[0016] Don't Hijack Physician Workflow/Candid CIO/20170328
+#0016/1663/278
+
+During my time off I have been meeting with folks to see what is new in the healthcare IT space. I got a quick demo of a product called IllumiCare. Their mission is to provide cost information to physicians so they can make informed, cost-effective decisions about plans of care and hospital orders.
+
+To be clear, this is not an IllumiCare endorsement and IllumiCare did not ask me to post this. I just saw a demo. But their offering is based on 2 principles that I completely agree with. I believe this should be guiding principles for all of us in healthcare IT:
+
+1. Embed everything in the EHR
+
+IllumiCare's information is presented as embedded panes in EHRs such as Cerner or Epic. IllumiCare believes (and I agree) that having separate systems kills adoption. Physicians live in the EHR. They don't want to login to separate systems; re-query their patients; nor deal with different user interfaces. Even if you have single sign-on and patient context management, there is a significant inertia that keeps physicians from logging into other systems.
+
+2. Don't hijack the physician workflow
+
+Our attempts to build alerts in the physician online ordering workflow have been failures. Because these alerts are seldom relevant to the task at hand physicians clear these alerts before they are even observed. It is time to STOP using alerts except in the most critical safety situations.
+
+Instead IllumiCare presents cost information on review screens. The idea is that information is imparted when the physician is most open to receiving the information. Over time physicians come to understand the cost impacts of their behavior and modify that behavior over time.
+
+https://candidcio.com/2017/03/28/dont-hijack-physician-workflow/
